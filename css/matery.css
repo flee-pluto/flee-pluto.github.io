@@ -35,7 +35,7 @@
 
 body {
     /* background-color: #eaeaea; */
-    background: linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35) ) 0% 0% /     cover, url("http://tu.yaohuo.me/imgs/2020/10/1151178151b04921.jpg"), url("http://tu.yaohuo.me/imgs/2020/10/1151178151b04921.jpg") 0px 0px;
+    background: linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35) ) 0% 0% /     cover, url("http://x.jpg"), url("x.jpg") 0px 0px;
     background-attachment: fixed;
     margin: 0;
     color: #7F95D1;
